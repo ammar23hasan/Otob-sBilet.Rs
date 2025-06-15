@@ -1,0 +1,99 @@
+﻿using System;
+using System.Windows.Forms;
+using Otob_sBilet.R.S.UserControls;
+
+namespace Otob_sBilet.R.S.Forms
+{
+    public partial class MainForm : Form
+    {
+        private SeferOlusturControl seferOlusturControl;
+        private KoltukSecimiControl koltukSecimiControl;
+        private BiletYazdirControl biletYazdirControl;
+
+        public MainForm()
+        {
+            InitializeComponent();
+            LoadSeferOlustur();
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+            seferOlusturControl = new SeferOlusturControl();
+            seferOlusturControl.SeferOlusturuldu += SeferOlusturControl_SeferOlusturuldu;
+            this.Controls.Add(seferOlusturControl);
+            seferOlusturControl.BringToFront();
+        }
+
+        private void SeferOlusturControl_SeferOlusturuldu(object sender, Sefer sefer)
+        {
+            koltukSecimiControl = new KoltukSecimiControl(sefer);
+            koltukSecimiControl.RezervasyonOnaylandi += KoltukSecimiControl_RezervasyonOnaylandi;
+            this.Controls.Add(koltukSecimiControl);
+            koltukSecimiControl.BringToFront();
+        }
+
+        private void KoltukSecimiControl_RezervasyonOnaylandi(object sender, Rezervasyon rezervasyon)
+        {
+            biletYazdirControl = new BiletYazdirControl(rezervasyon);
+            this.Controls.Add(biletYazdirControl);
+            biletYazdirControl.BringToFront();
+        }
+
+        private void btnSeferOlustur_Click(object sender, EventArgs e)
+        {
+            LoadSeferOlustur();
+        }
+
+        private void btnKoltukSecimi_Click(object sender, EventArgs e)
+        {
+            LoadKoltukSecimi();
+        }
+
+        private void btnBiletYazdir_Click(object sender, EventArgs e)
+        {
+            LoadBiletYazdir();
+        }
+
+        private void btnAyarlar_Click(object sender, EventArgs e)
+        {
+            LoadAyarlar();
+        }
+
+        private void btnCikis_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void LoadSeferOlustur()
+        {
+            mainContentPanel.Controls.Clear();
+            var control = new SeferOlusturControl();
+            control.Dock = DockStyle.Fill;
+            mainContentPanel.Controls.Add(control);
+        }
+
+        private void LoadKoltukSecimi()
+        {
+            mainContentPanel.Controls.Clear();
+            var control = new KoltukSecimiControl();
+            control.Dock = DockStyle.Fill;
+            mainContentPanel.Controls.Add(control);
+        }
+
+        private void LoadBiletYazdir()
+        {
+            mainContentPanel.Controls.Clear();
+            var control = new BiletYazdirControl();
+            control.Dock = DockStyle.Fill;
+            mainContentPanel.Controls.Add(control);
+        }
+
+        private void LoadAyarlar()
+        {
+            mainContentPanel.Controls.Clear();
+            var control = new AyarlarControl();
+            control.Dock = DockStyle.Fill;
+            mainContentPanel.Controls.Add(control);
+        }
+    }
+}

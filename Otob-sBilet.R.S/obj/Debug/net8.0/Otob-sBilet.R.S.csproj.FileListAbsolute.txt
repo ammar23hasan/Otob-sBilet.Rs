@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Otob-sBilet.R.S\Otob-sBilet.R.S\obj\Debug\net8.0\Otob-sBilet.R.S.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Otob-sBilet.R.S\Otob-sBilet.R.S\obj\Debug\net8.0\Otob-sBilet.R.S.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Otob-sBilet.R.S\Otob-sBilet.R.S\obj\Debug\net8.0\Otob-sBilet.R.S.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Otob-sBilet.R.S\Otob-sBilet.R.S\obj\Debug\net8.0\Otob-sBilet.R.S.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Otob-sBilet.R.S\Otob-sBilet.R.S\bin\Debug\net8.0\Otob-sBilet.R.S.exe
+C:\Users\Administrator\source\repos\Otob-sBilet.R.S\Otob-sBilet.R.S\bin\Debug\net8.0\Otob-sBilet.R.S.deps.json
+C:\Users\Administrator\source\repos\Otob-sBilet.R.S\Otob-sBilet.R.S\bin\Debug\net8.0\Otob-sBilet.R.S.runtimeconfig.json
+C:\Users\Administrator\source\repos\Otob-sBilet.R.S\Otob-sBilet.R.S\bin\Debug\net8.0\Otob-sBilet.R.S.dll
+C:\Users\Administrator\source\repos\Otob-sBilet.R.S\Otob-sBilet.R.S\bin\Debug\net8.0\Otob-sBilet.R.S.pdb
+C:\Users\Administrator\source\repos\Otob-sBilet.R.S\Otob-sBilet.R.S\obj\Debug\net8.0\Otob-sBilet.R.S.dll
+C:\Users\Administrator\source\repos\Otob-sBilet.R.S\Otob-sBilet.R.S\obj\Debug\net8.0\refint\Otob-sBilet.R.S.dll
+C:\Users\Administrator\source\repos\Otob-sBilet.R.S\Otob-sBilet.R.S\obj\Debug\net8.0\Otob-sBilet.R.S.pdb
+C:\Users\Administrator\source\repos\Otob-sBilet.R.S\Otob-sBilet.R.S\obj\Debug\net8.0\Otob-sBilet.R.S.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Otob-sBilet.R.S\Otob-sBilet.R.S\obj\Debug\net8.0\ref\Otob-sBilet.R.S.dll

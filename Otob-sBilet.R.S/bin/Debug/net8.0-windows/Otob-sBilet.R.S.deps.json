@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Otob-sBilet.R.S/1.0.0": {
+        "runtime": {
+          "Otob-sBilet.R.S.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Otob-sBilet.R.S/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

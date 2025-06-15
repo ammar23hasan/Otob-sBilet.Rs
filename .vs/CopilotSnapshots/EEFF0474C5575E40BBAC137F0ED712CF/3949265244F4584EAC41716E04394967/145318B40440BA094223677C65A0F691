@@ -1,0 +1,72 @@
+﻿namespace Otob_sBilet.R.S.UserControls
+{
+    partial class BiletYazdirControl
+    {
+        private System.ComponentModel.IContainer components = null;
+        private System.Windows.Forms.Label lblSeferBilgi;
+        private System.Windows.Forms.Label lblKoltukBilgi;
+        private System.Windows.Forms.Button btnPdfKaydet;
+        private System.Windows.Forms.Button btnYazdir;
+
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+                components.Dispose();
+            base.Dispose(disposing);
+        }
+
+        private void InitializeComponent()
+        {
+            this.lblSeferBilgi = new System.Windows.Forms.Label();
+            this.lblKoltukBilgi = new System.Windows.Forms.Label();
+            this.btnPdfKaydet = new System.Windows.Forms.Button();
+            this.btnYazdir = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // lblSeferBilgi
+            // 
+            this.lblSeferBilgi.AutoSize = true;
+            this.lblSeferBilgi.Location = new System.Drawing.Point(40, 40);
+            this.lblSeferBilgi.Name = "lblSeferBilgi";
+            this.lblSeferBilgi.Size = new System.Drawing.Size(180, 20);
+            this.lblSeferBilgi.Text = "Sefer: [Kalkış] -> [Varış]";
+            // 
+            // lblKoltukBilgi
+            // 
+            this.lblKoltukBilgi.AutoSize = true;
+            this.lblKoltukBilgi.Location = new System.Drawing.Point(40, 80);
+            this.lblKoltukBilgi.Name = "lblKoltukBilgi";
+            this.lblKoltukBilgi.Size = new System.Drawing.Size(120, 20);
+            this.lblKoltukBilgi.Text = "Koltuk No: [No]";
+            // 
+            // btnPdfKaydet
+            // 
+            this.btnPdfKaydet.Location = new System.Drawing.Point(40, 130);
+            this.btnPdfKaydet.Name = "btnPdfKaydet";
+            this.btnPdfKaydet.Size = new System.Drawing.Size(150, 35);
+            this.btnPdfKaydet.Text = "PDF Olarak Kaydet";
+            this.btnPdfKaydet.UseVisualStyleBackColor = true;
+            this.btnPdfKaydet.Click += new System.EventHandler(this.btnPdfKaydet_Click);
+            // 
+            // btnYazdir
+            // 
+            this.btnYazdir.Location = new System.Drawing.Point(210, 130);
+            this.btnYazdir.Name = "btnYazdir";
+            this.btnYazdir.Size = new System.Drawing.Size(120, 35);
+            this.btnYazdir.Text = "Yazdır";
+            this.btnYazdir.UseVisualStyleBackColor = true;
+            this.btnYazdir.Click += new System.EventHandler(this.btnYazdir_Click);
+            // 
+            // BiletYazdirControl
+            // 
+            this.Controls.Add(this.lblSeferBilgi);
+            this.Controls.Add(this.lblKoltukBilgi);
+            this.Controls.Add(this.btnPdfKaydet);
+            this.Controls.Add(this.btnYazdir);
+            this.Name = "BiletYazdirControl";
+            this.Size = new System.Drawing.Size(600, 200);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+        }
+    }
+}

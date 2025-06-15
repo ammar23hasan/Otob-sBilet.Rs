@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|c:\\users\\administrator\\downloads\\otob-sbilet.rs\\otob-sbilet.r.s-main\\otob-sbilet.r.s\\usercontrols\\seferolusturcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\usercontrols\\seferolusturcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|c:\\users\\administrator\\downloads\\otob-sbilet.rs\\otob-sbilet.r.s-main\\otob-sbilet.r.s\\usercontrols\\seferolusturcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\usercontrols\\seferolusturcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\otob-sbilet.r.s\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|c:\\users\\administrator\\downloads\\otob-sbilet.rs\\otob-sbilet.r.s-main\\otob-sbilet.r.s\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|c:\\users\\administrator\\downloads\\otob-sbilet.rs\\otob-sbilet.r.s-main\\otob-sbilet.r.s\\sefer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\sefer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|c:\\users\\administrator\\downloads\\otob-sbilet.rs\\otob-sbilet.r.s-main\\otob-sbilet.r.s\\usercontrols\\seferolusturcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\usercontrols\\seferolusturcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|c:\\users\\administrator\\downloads\\otob-sbilet.rs\\otob-sbilet.r.s-main\\otob-sbilet.r.s\\usercontrols\\seferolusturcontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\usercontrols\\seferolusturcontrol.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|c:\\users\\administrator\\downloads\\otob-sbilet.rs\\otob-sbilet.r.s-main\\otob-sbilet.r.s\\otobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\otobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|c:\\users\\administrator\\downloads\\otob-sbilet.rs\\otob-sbilet.r.s-main\\otob-sbilet.r.s\\sehiricisefer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\sehiricisefer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|c:\\users\\administrator\\downloads\\otob-sbilet.rs\\otob-sbilet.r.s-main\\otob-sbilet.r.s\\sehirlerarasisefer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\sehirlerarasisefer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|c:\\users\\administrator\\downloads\\otob-sbilet.rs\\otob-sbilet.r.s-main\\otob-sbilet.r.s\\usercontrols\\biletyazdircontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\usercontrols\\biletyazdircontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\otob-sbilet.r.s\\usercontrols\\biletyazdircontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\usercontrols\\biletyazdircontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|c:\\users\\administrator\\downloads\\otob-sbilet.rs\\otob-sbilet.r.s-main\\otob-sbilet.r.s\\irezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\irezervasyon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|c:\\users\\administrator\\downloads\\otob-sbilet.rs\\otob-sbilet.r.s-main\\otob-sbilet.r.s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|c:\\users\\administrator\\downloads\\otob-sbilet.rs\\otob-sbilet.r.s-main\\otob-sbilet.r.s\\koltuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\koltuk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\otob-sbilet.r.s\\usercontrols\\koltuksecimicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\usercontrols\\koltuksecimicontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\otob-sbilet.r.s\\usercontrols\\ayarlarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0635802-4271-4104-A4A5-1FE7BB6A2F1C}|Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj|solutionrelative:otob-sbilet.r.s\\usercontrols\\ayarlarcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Otobus.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\Otobus.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\Otobus.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\Otobus.cs",
+              "RelativeToolTip": "Otob-sBilet.R.S\\Otobus.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T10:22:06.727Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeferOlusturControl.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:54:05.318Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\Forms\\MainForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Otob-sBilet.R.S\\Forms\\MainForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:54:21.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeferOlusturControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.Designer.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.Designer.cs",
+              "RelativeToolTip": "Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAMwD4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:54:01.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sefer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\Sefer.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\Sefer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\Sefer.cs",
+              "RelativeToolTip": "Otob-sBilet.R.S\\Sefer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:51:36.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeferOlusturControl.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.cs",
+              "RelativeToolTip": "Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:21:29.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\Forms\\MainForm.cs",
+              "RelativeToolTip": "Otob-sBilet.R.S\\Forms\\MainForm.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAUwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T17:10:25.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRezervasyon.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\IRezervasyon.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\IRezervasyon.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\IRezervasyon.cs",
+              "RelativeToolTip": "Otob-sBilet.R.S\\IRezervasyon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:51:48.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Koltuk.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\Koltuk.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\Koltuk.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\Koltuk.cs",
+              "RelativeToolTip": "Otob-sBilet.R.S\\Koltuk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:51:27.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeferOlusturControl.resx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.resx",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.resx",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.resx",
+              "RelativeToolTip": "Otob-sBilet.R.S\\UserControls\\SeferOlusturControl.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-06-15T16:56:23.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\Program.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\Program.cs",
+              "RelativeToolTip": "Otob-sBilet.R.S\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:51:29.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SehiriciSefer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\SehiriciSefer.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\SehiriciSefer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\SehiriciSefer.cs",
+              "RelativeToolTip": "Otob-sBilet.R.S\\SehiriciSefer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:51:29.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SehirlerarasiSefer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\SehirlerarasiSefer.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\SehirlerarasiSefer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\SehirlerarasiSefer.cs",
+              "RelativeToolTip": "Otob-sBilet.R.S\\SehirlerarasiSefer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:51:54.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BiletYazdirControl.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\BiletYazdirControl.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\UserControls\\BiletYazdirControl.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\BiletYazdirControl.cs",
+              "RelativeToolTip": "Otob-sBilet.R.S\\UserControls\\BiletYazdirControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T16:43:10.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BiletYazdirControl.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\BiletYazdirControl.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\UserControls\\BiletYazdirControl.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\BiletYazdirControl.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Otob-sBilet.R.S\\UserControls\\BiletYazdirControl.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:42:18.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AyarlarControl.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\AyarlarControl.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\UserControls\\AyarlarControl.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\AyarlarControl.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Otob-sBilet.R.S\\UserControls\\AyarlarControl.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:51:55.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KoltukSecimiControl.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\KoltukSecimiControl.cs",
+              "RelativeDocumentMoniker": "Otob-sBilet.R.S\\UserControls\\KoltukSecimiControl.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\UserControls\\KoltukSecimiControl.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Otob-sBilet.R.S\\UserControls\\KoltukSecimiControl.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T15:51:58.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

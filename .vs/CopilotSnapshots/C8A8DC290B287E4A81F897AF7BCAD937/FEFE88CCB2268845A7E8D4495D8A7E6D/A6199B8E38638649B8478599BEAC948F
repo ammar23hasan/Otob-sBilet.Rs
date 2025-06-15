@@ -1,0 +1,28 @@
+﻿using System;
+using System.Windows.Forms;
+
+namespace Otob_sBilet.R.S.UserControls
+{
+    public partial class SeferOlusturControl : UserControl
+    {
+        public SeferOlusturControl()
+        {
+            InitializeComponent();
+        }
+
+        public event EventHandler<Sefer> SeferOlusturuldu;
+
+        private void btnOlustur_Click(object sender, EventArgs e)
+        {
+            // Sefer oluşturma işlemleri burada yapılacak
+            MessageBox.Show("Sefer oluşturuldu!", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void btnSeferOlustur_Click(object sender, EventArgs e)
+        {
+            // ...sefer oluşturma kodları...
+            Sefer yeniSefer = /* sefer oluşturma işlemi */;
+            SeferOlusturuldu?.Invoke(this, yeniSefer);
+        }
+    }
+}

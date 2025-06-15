@@ -1,0 +1,76 @@
+﻿using System;
+using System.Windows.Forms;
+
+namespace Otob_sBilet.R.S.UserControls
+{
+    public partial class SeferOlusturControl : UserControl
+    {
+        private DateTimePicker dtpTarih; // Sadece bir tane DateTimePicker tanımlı
+
+        public SeferOlusturControl()
+        {
+            InitializeComponent();
+
+            // Yalnızca bir DateTimePicker oluşturuluyor ve ekleniyor
+            dtpTarih = new DateTimePicker
+            {
+                Name = "dtpTarih",
+                Location = new System.Drawing.Point(10, 10) // Gerekirse konumu değiştirin
+            };
+            this.Controls.Add(dtpTarih);
+        }
+
+        public event EventHandler<Sefer> SeferOlusturuldu;
+
+        // Her iki buton click eventinde de aynı dtpTarih kullanılıyor
+        private void btnOlustur_Click(object sender, EventArgs e)
+        {
+            string nereden = txtNereden.Text;
+            string nereye = txtNereye.Text;
+
+            ComboBox cmbSeferTipi = this.Controls.Find("cmbSeferTuru", true).FirstOrDefault() as ComboBox;
+            if (cmbSeferTipi == null)
+            {
+                MessageBox.Show("Sefer tipi seçimi için bir ComboBox bulunamadı.", "Hata", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            string tip = cmbSeferTipi.SelectedItem?.ToString();
+            DateTime seferTarihi = dtpTarih.Value;
+
+            Sefer yeniSefer;
+            if (tip == "Şehiriçi")
+                yeniSefer = new SehiriciSefer(nereden, nereye, seferTarihi);
+            else
+                yeniSefer = new SehirlerarasiSefer(nereden, nereye, seferTarihi);
+
+            SeferOlusturuldu?.Invoke(this, yeniSefer);
+            MessageBox.Show("Sefer oluşturuldu!", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+
+        private void btnSeferOlustur_Click(object sender, EventArgs e)
+        {
+            string nereden = txtNereden.Text;
+            string nereye = txtNereye.Text;
+
+            ComboBox cmbSeferTipi = this.Controls.Find("cmbSeferTipi", true).FirstOrDefault() as ComboBox;
+            if (cmbSeferTipi == null)
+            {
+                MessageBox.Show("Sefer tipi seçimi için bir ComboBox bulunamadı.", "Hata", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            string tip = cmbSeferTipi.SelectedItem?.ToString();
+            DateTime seferTarihi = dtpTarih.Value;
+
+            Sefer yeniSefer;
+            if (tip == "Şehiriçi")
+                yeniSefer = new SehiriciSefer(nereden, nereye, seferTarihi);
+            else
+                yeniSefer = new SehirlerarasiSefer(nereden, nereye, seferTarihi);
+
+            SeferOlusturuldu?.Invoke(this, yeniSefer);
+            MessageBox.Show("Sefer oluşturuldu!", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
+        }
+    }
+}
