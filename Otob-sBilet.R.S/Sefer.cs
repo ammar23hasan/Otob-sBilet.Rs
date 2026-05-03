@@ -54,11 +54,5 @@ namespace Otob_sBilet.R.S
             Console.WriteLine($"Tarih: {Tarih:dd.MM.yyyy HH:mm}");
             Console.WriteLine("----------------------\n");
         }
-
-
-        void IRezervasyon.RezervasyonYap(int koltukNumarasi)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

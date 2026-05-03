@@ -33,8 +33,13 @@ namespace Otob_sBilet.R.S.Forms
 
         private void KoltukSecimiControl_RezervasyonOnaylandi(object sender, int koltukNo)
         {
+            if (_olusturulanSefer == null)
+            {
+                MessageBox.Show("Once sefer olusturun.", "Uyari", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
             _seciliKoltukNo = koltukNo;
-            _olusturulanSefer.RezervasyonYap(koltukNo);
             LoadBiletYazdir(_olusturulanSefer, koltukNo);
         }
 
@@ -45,6 +50,12 @@ namespace Otob_sBilet.R.S.Forms
 
         private void btnKoltukSecimi_Click(object sender, EventArgs e)
         {
+            if (_olusturulanSefer == null)
+            {
+                MessageBox.Show("Once sefer olusturun.", "Uyari", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
+            }
+
             LoadKoltukSecimi(_olusturulanSefer);
         }
 

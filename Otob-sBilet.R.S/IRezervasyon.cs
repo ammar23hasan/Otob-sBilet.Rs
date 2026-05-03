@@ -8,7 +8,7 @@ namespace Otob_sBilet.R.S
 {
     public interface IRezervasyon
     {
-        void RezervasyonYap(int koltukNumarasi);
+        bool RezervasyonYap(int koltukNumarasi);
     }
 
 }

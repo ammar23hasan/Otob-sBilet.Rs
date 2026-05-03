@@ -33,7 +33,7 @@ namespace Otob_sBilet.R.S.UserControls
             lblSeferBilgi.Name = "lblSeferBilgi";
             lblSeferBilgi.Size = new Size(163, 20);
             lblSeferBilgi.TabIndex = 0;
-            lblSeferBilgi.Text = "Sefer: [Kalkýþ] -> [Varýþ]";
+            lblSeferBilgi.Text = "Sefer: [Kalkis] -> [Varis]";
             // 
             // lblKoltukBilgi
             // 
@@ -60,7 +60,7 @@ namespace Otob_sBilet.R.S.UserControls
             btnYazdir.Name = "btnYazdir";
             btnYazdir.Size = new Size(120, 35);
             btnYazdir.TabIndex = 4;
-            btnYazdir.Text = "Yazdýr";
+            btnYazdir.Text = "Yazdir";
             btnYazdir.UseVisualStyleBackColor = true;
             btnYazdir.Click += btnYazdir_Click;
             // 

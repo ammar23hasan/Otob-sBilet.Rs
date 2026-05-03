@@ -19,7 +19,7 @@ namespace Otob_sBilet.R.S.UserControls
         {
             InitializeComponent();
             _rezervasyon = rezervasyon;
-            // Bilet bilgilerini göster ve kaydet/yazdýr iþlemlerini baþlat
+            // Bilet bilgilerini goster ve kaydet/yazdir islemlerini baslat
         }
 
         public BiletYazdirControl(Sefer sefer, int koltukNo)
@@ -27,29 +27,29 @@ namespace Otob_sBilet.R.S.UserControls
             InitializeComponent();
             _sefer = sefer;
             _koltukNo = koltukNo;
-            // Bilet bilgilerini göster
+            // Bilet bilgilerini goster
             lblSeferBilgi.Text = $"Sefer: {_sefer.Nereden} -> {_sefer.Nereye}";
             lblKoltukBilgi.Text = $"Koltuk No: {_koltukNo}";
-            lblTarihBilgi.Text = $"Tarih: {_sefer.Tarih:dd.MM.yyyy HH:mm}"; // Tarih label'ý
+            lblTarihBilgi.Text = $"Tarih: {_sefer.Tarih:dd.MM.yyyy HH:mm}";
         }
 
         private void btnPdfKaydet_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("PDF olarak kaydedildi (örnek).", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show("PDF olarak kaydedildi (ornek).", "Bilgi", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void btnYazdir_Click(object sender, EventArgs e)
         {
-            // Güzel ve detaylý bilet mesajý hazýrla
+            // Guzel ve detayli bilet mesaji hazirla
             string mesaj = 
                 "----- Bilet Bilgileri -----\n" +
                 $"Sefer: {_sefer?.Nereden} -> {_sefer?.Nereye}\n" +
                 $"Koltuk No: {_koltukNo}\n" +
                 $"Tarih: {_sefer?.Tarih:dd.MM.yyyy HH:mm}\n" +
                 "--------------------------\n" +
-                "Ýyi yolculuklar dileriz!";
+                "Iyi yolculuklar dileriz!";
 
-            MessageBox.Show(mesaj, "Bilet Yazdýr", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show(mesaj, "Bilet Yazdir", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
     }

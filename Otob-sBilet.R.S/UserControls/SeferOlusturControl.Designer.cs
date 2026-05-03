@@ -46,7 +46,7 @@ namespace Otob_sBilet.R.S.UserControls
             lblNereden.Name = "lblNereden";
             lblNereden.Size = new Size(104, 20);
             lblNereden.TabIndex = 0;
-            lblNereden.Text = "Kalkýþ Noktasý:";
+            lblNereden.Text = "Kalkis Noktasi:";
             // 
             // lblNereye
             // 
@@ -55,7 +55,7 @@ namespace Otob_sBilet.R.S.UserControls
             lblNereye.Name = "lblNereye";
             lblNereye.Size = new Size(97, 20);
             lblNereye.TabIndex = 2;
-            lblNereye.Text = "Varýþ Noktasý:";
+            lblNereye.Text = "Varis Noktasi:";
             // 
             // lblTarihSaat
             // 
@@ -73,7 +73,7 @@ namespace Otob_sBilet.R.S.UserControls
             lblSeferTuru.Name = "lblSeferTuru";
             lblSeferTuru.Size = new Size(79, 20);
             lblSeferTuru.TabIndex = 6;
-            lblSeferTuru.Text = "Sefer Türü:";
+            lblSeferTuru.Text = "Sefer Turu:";
             // 
             // txtNereden
             // 
@@ -92,7 +92,7 @@ namespace Otob_sBilet.R.S.UserControls
             // cmbSeferTuru
             // 
             cmbSeferTuru.DropDownStyle = ComboBoxStyle.DropDownList;
-            cmbSeferTuru.Items.AddRange(new object[] { "Þehirlerarasý", "Þehiriçi" });
+            cmbSeferTuru.Items.AddRange(new object[] { "Sehirlerarasi", "Sehirici" });
             cmbSeferTuru.Location = new Point(180, 157);
             cmbSeferTuru.Name = "cmbSeferTuru";
             cmbSeferTuru.Size = new Size(200, 28);
@@ -104,7 +104,7 @@ namespace Otob_sBilet.R.S.UserControls
             btnOlustur.Name = "btnOlustur";
             btnOlustur.Size = new Size(120, 35);
             btnOlustur.TabIndex = 8;
-            btnOlustur.Text = "Oluþtur";
+            btnOlustur.Text = "Olustur";
             btnOlustur.UseVisualStyleBackColor = true;
             btnOlustur.Click += btnOlustur_Click;
             // 

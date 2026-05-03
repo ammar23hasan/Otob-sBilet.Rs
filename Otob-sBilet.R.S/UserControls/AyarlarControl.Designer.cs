@@ -23,7 +23,7 @@ namespace Otob_sBilet.R.S.UserControls
             this.lblAyarlar.Location = new System.Drawing.Point(40, 40);
             this.lblAyarlar.Name = "lblAyarlar";
             this.lblAyarlar.Size = new System.Drawing.Size(120, 20);
-            this.lblAyarlar.Text = "Ayarlar Sayfasý";
+            this.lblAyarlar.Text = "Ayarlar Sayfasi";
             // 
             // AyarlarControl
             // 

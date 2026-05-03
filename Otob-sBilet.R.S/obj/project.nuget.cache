@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zPwhOLT5+fs=",
+  "dgSpecHash": "/Ia3kdwguBw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Administrator\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S-main\\Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ammar\\Downloads\\Otob-sBilet.Rs\\Otob-sBilet.R.S\\Otob-sBilet.R.S.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ammar\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.26\\microsoft.netcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\ammar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.26\\microsoft.windowsdesktop.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\ammar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.26\\microsoft.aspnetcore.app.ref.8.0.26.nupkg.sha512",
+    "C:\\Users\\ammar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.26\\microsoft.netcore.app.host.win-x64.8.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

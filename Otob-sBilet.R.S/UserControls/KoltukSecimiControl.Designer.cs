@@ -25,7 +25,7 @@ namespace Otob_sBilet.R.S.UserControls
             this.lblSeciliKoltuk.Location = new System.Drawing.Point(30, 220);
             this.lblSeciliKoltuk.Name = "lblSeciliKoltuk";
             this.lblSeciliKoltuk.Size = new System.Drawing.Size(120, 20);
-            this.lblSeciliKoltuk.Text = "Seçili Koltuk: -";
+            this.lblSeciliKoltuk.Text = "Secili Koltuk: -";
             // 
             // btnRezerveEt
             // 
